@@ -7,10 +7,7 @@ import Register from './pages/register/Register';
 
 const App = () => {
   return (
-    <Router> {/* Wrap your components/pages inside the Router component */}
-      <Home/>
-      {/* Define routes for other components/pages here */}
-    </Router>
+   <Home/>
   );
 }
 
